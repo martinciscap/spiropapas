@@ -31,13 +31,13 @@ Ideal para cuando olvidas qué puerto dejaste abierto (¡como el SSH! 🤦‍♂
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/spiropapas.git
+   git clone https://github.com/martinciscap/spiropapas.git
    cd spiropapas
    ```
 
 2. Ejecuta el escáner:
    ```bash
-   python scanner.py
+   python spiropapas.py
    ```
 
 3. Escribe la IP del dispositivo cuando se te pida.
@@ -48,8 +48,7 @@ Ideal para cuando olvidas qué puerto dejaste abierto (¡como el SSH! 🤦‍♂
 
 ```
 spiropapas/
-├── assets/
-│   └── spiropapas_logo_16bit.png  # Logo retro del proyecto
+├── logo.png
 ├── scanner.py                     # Código principal del escáner
 ├── README.md                      # Este archivo
 ```
@@ -81,7 +80,7 @@ MIT License. Puedes usarlo, modificarlo o hacerle una versión con sabor a chipo
 
 ## 🌮 ¿Por qué se llama Spiropapas?
 
-Porque escanea en espiral, de forma ordenada, y porque suena chido 😎  
+Porque suena chido 😎  
 Y sí, nos gusta comer papas en la feria mientras hackeamos cosas.
 
 ---
