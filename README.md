@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/logo.png" alt="Spiropapas Logo" width="200"/>
+  <img src="logo.png" alt="Spiropapas Logo" width="200"/>
 </p>
 
 # 🧂 Spiropapas
